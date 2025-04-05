@@ -19,6 +19,7 @@
 		"@sveltejs/vite-plugin-svelte": "^5.0.0",
 		"@tailwindcss/typography": "^0.5.15",
 		"@tailwindcss/vite": "^4.0.0",
+		"bits-ui": "^1.3.17",
 		"mdsvex": "^0.12.3",
 		"prettier": "^3.4.2",
 		"prettier-plugin-svelte": "^3.3.3",
@@ -28,5 +29,8 @@
 		"tailwindcss": "^4.0.0",
 		"typescript": "^5.0.0",
 		"vite": "^6.2.5"
+	},
+	"dependencies": {
+		"tw-animate-css": "^1.2.5"
 	}
 }
